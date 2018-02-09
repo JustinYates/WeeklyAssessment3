@@ -1,8 +1,14 @@
 package com.company.Question_3;
 
+
 public class Main {
 
-    public static void main(String[] args) {
+    public void main(String[] args) {
+
+       Switch Nswitch = new Switch();
+       Switch.Answer();
+
+    }
         /*
         1. Create a switch statement in its own method in the Switch class in this package.
         This switch statement should take a string and have 4 cases it could match.
@@ -11,5 +17,5 @@ public class Main {
         3. Instantiate the switch class in this main method and run the method you created.
          */
 
-    }
 }
+

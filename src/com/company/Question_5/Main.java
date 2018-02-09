@@ -12,6 +12,8 @@ public class Main {
 
         /* ANSWER QUESTION HERE:
 
+        Abstract classes are must run classes, but everything else still has to follow the extended classes designs
+
 
 
          */
